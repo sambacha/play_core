@@ -1,0 +1,26 @@
+{
+	"name": "play_core",
+	"version": "1.0.0",
+	"description": "Core files, example and demos of the live-code ASCII playground:   [play.ertdfgcvb.xyz](https://play.ertdfgcvb.xyz)",
+	"main": "src/run.js",
+	"directories": {
+		"src": "src",
+ 		"dist": "dist"
+	},
+	"scripts": {
+	},
+	"keywords": [],
+	"author": "ertdfgcvb",
+	"license": "Apache-2.0",
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4",
+		"@rollup/plugin-terser": "^0.4.4",
+		"eslint": "^8.57.1",
+		"eslint-config-acme": "^3.1.0",
+		"prettier": "^3.4.2",
+		"rollup": "^4.28.1",
+		"terser": "^5.37.0"
+	},
+	"dependencies": {
+	}
+}
